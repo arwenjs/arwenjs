@@ -3,7 +3,7 @@
 Burada yaptığım bazı işleri tanıtıyorum bazende size kullandığım altyapıları paylaşıyorum.
 
 ## Kodladığım Diller
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="50" height="50" align="left"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="50" height="50" align="left">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="30" height="30" align="left"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="30" height="30" align="left">
 
 ## Github ile ilgili
 h3 align="left">:bar_chart: GitHub Stats:</h3>
