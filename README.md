@@ -22,5 +22,5 @@ h3 align="left">:bar_chart: GitHub Stats:</h3>
 
 </p>
 
-## Discord Profilim
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/1071486120887591003)](https://discord.com/users/1071486120887591003)
