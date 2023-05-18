@@ -21,3 +21,6 @@ h3 align="left">:bar_chart: GitHub Stats:</h3>
 <img src="https://github-profile-trophy.vercel.app/?username=arwenjs&theme=radical" />
 
 </p>
+
+## Discord Profilim
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1071486120887591003?hideDiscrim=true)](https://discord.com/users/1071486120887591003)
