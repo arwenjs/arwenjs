@@ -12,7 +12,7 @@ Burada yaptığım bazı işleri tanıtıyorum bazende size kullandığım altya
 
 
 ## Github ile ilgili
-h3 align="left">:bar_chart: GitHub Stats:</h3>
+
 
 <p align="left">
 
