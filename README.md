@@ -16,7 +16,7 @@ Burada yaptığım bazı işleri tanıtıyorum bazende size kullandığım altya
 
 <p align="left">
 
-   <img src="https://github-readme-stats.vercel.app/api?username=arwenjs&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
+![arwenjs's Stats](https://github-readme-stats.vercel.app/api?username=arwenjs&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 <img src="https://github-profile-trophy.vercel.app/?username=arwenjs&theme=radical" />
 
