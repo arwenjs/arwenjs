@@ -11,7 +11,7 @@ Burada yaptığım bazı işleri tanıtıyorum bazende size kullandığım altya
 
 
 
-## Github ile ilgili
+## Github İstatistik
 
 
 <p align="left">
