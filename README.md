@@ -19,7 +19,7 @@ Burada yaptığım bazı işleri tanıtıyorum bazende size kullandığım altya
 
 <img src="https://github-profile-trophy.vercel.app/?username=arwenjs&theme=radical" />
 
-![arwenjs's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arwenjs&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![arwenjs's Streak](https://github-readme-streak-stats.herokuapp.com/?user=arwenjs&theme=algolia&hide_border=true)
 
 </p>
 
