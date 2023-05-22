@@ -15,7 +15,7 @@ Burada yaptığım bazı işleri tanıtıyorum bazende size kullandığım altya
 
 <p align="left">
 
-![arwenjs's Stats](https://github-readme-stats.vercel.app/api?username=arwenjs&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![arwenjs's Stats](https://github-readme-stats.vercel.app/api?username=arwenjs&theme=algolia&show_icons=true&hide_border=true&count_private=true)
 
 <img src="https://github-profile-trophy.vercel.app/?username=arwenjs&theme=radical" />
 
