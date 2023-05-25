@@ -24,4 +24,4 @@ Burada yaptığım bazı işleri tanıtıyorum bazende size kullandığım altya
 </p>
 
 ## Discord İletişim
-[![Discord Presence](https://lanyard.cnrad.dev/api/1071486120887591003)](https://discord.com/users/1071486120887591003)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1071486120887591003?hideDiscrim=true)](https://discord.com/users/1071486120887591003)
