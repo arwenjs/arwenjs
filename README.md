@@ -1,6 +1,4 @@
-### Selam Ben Arwen 👋 Discord üzerinde 3 yıldır Bot yapıyorum.
-Burada yaptığım bazı işleri tanıtıyorum bazende size kullandığım altyapıları paylaşıyorum.
-
+### Discordu an itibarıyla salmış  bulunmaktayım.
 ## Kodladığım Diller
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)&nbsp;
 
@@ -22,6 +20,3 @@ Burada yaptığım bazı işleri tanıtıyorum bazende size kullandığım altya
 ![arwenjs's Streak](https://github-readme-streak-stats.herokuapp.com/?user=arwenjs&theme=algolia&hide_border=true)
 
 </p>
-
-## Discord İletişim
-[![Discord Presence](https://lanyard.cnrad.dev/api/1071486120887591003)](https://discord.com/users/1071486120887591003)
